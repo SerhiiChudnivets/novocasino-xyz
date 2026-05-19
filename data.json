@@ -3,7 +3,7 @@
   "site_name": "novocasino.xyz",
   "html_head": "",
   "url": "novocasino.xyz",
-  "template": "tupchiy",
+  "template": "luxury-casino",
   "language_code": "en",
   "allow_indexing": true,
   "redirect_404s_to_homepage": false,
@@ -44,8 +44,8 @@
   "Slots": null,
   "Bonuses": null,
   "FAQ": null,
-  "_generated_at": "2026-05-19T18:48:14.130Z",
+  "_generated_at": "2026-05-19T18:51:54.504Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-05-19T18:48:14.899Z",
-  "_deploy_trigger": "bhp49"
+  "_last_deploy": "2026-05-19T18:51:57.059Z",
+  "_deploy_trigger": "e6k84c"
 }
